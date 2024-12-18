@@ -16,10 +16,13 @@
 - Drag & Drop
 
 ### Tools
+
 - ESlint
 - Prettier
-- Husky
+- Cypress
+- Mochawesome
+- Babel
 
-- ### Demo links
+### Demo links
 
 - [Figma](https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
