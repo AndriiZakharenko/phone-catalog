@@ -1,6 +1,26 @@
-# React Product Catalog
+# Product Catalog
 
-Implement the catalog with a shopping cart and favorites page according to one of the next designs:
+### Description
 
-- [Original](https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
-- [Original Dark](https://www.figma.com/file/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark)
+- Implemented the catalog with a shopping cart and favorites page
+
+### Stack
+
+- HTML (BEM)
+- CSS
+- JS
+- Typescript
+- React
+- ReactDOM
+- React Router
+- Drag & Drop
+
+### Tools
+
+- ESlint
+- Prettier
+- Husky
+
+- ### Demo links
+
+- [Figma](https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
