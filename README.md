@@ -16,7 +16,6 @@
 - Drag & Drop
 
 ### Tools
-
 - ESlint
 - Prettier
 - Husky
